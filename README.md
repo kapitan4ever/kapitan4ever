@@ -6,4 +6,4 @@
 
 <img src="https://img.shields.io/badge/Figma-lightblue?style=for-the-badge&logo=Figma&logoColor=F24E1E"/> <img src="https://img.shields.io/badge/Git-lightblue?style=for-the-badge&logo=Git&logoColor=F05032"/> <img src="https://img.shields.io/badge/npm-lightblue?style=for-the-badge&logo=npm&logoColor=CB3837"/> <img src="https://img.shields.io/badge/Node.js-lightblue?style=for-the-badge&logo=Node.js&logoColor=339933"/>
 
-<img src="https://img.shields.io/badge/eslint-lightblue?style=for-the-badge&logo=eslint&logoColor=F24E1E"/> <img src="https://img.shields.io/badge/prettier-lightblue?style=for-the-badge&logo=prettier&logoColor=F05032"/> <img src="https://img.shields.io/badge/storybook-lightblue?style=for-the-badge&logo=storybook&logoColor=CB3837"/>
+<img src="https://img.shields.io/badge/ESLint-lightblue?style=for-the-badge&logo=ESLint&logoColor=4B32C3"/> <img src="https://img.shields.io/badge/Prettier-lightblue?style=for-the-badge&logo=Prettier&logoColor=F7B93E"/> <img src="https://img.shields.io/badge/Storybook-lightblue?style=for-the-badge&logo=Storybook&logoColor=FF4785"/>
